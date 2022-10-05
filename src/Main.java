@@ -8,6 +8,7 @@ public class Main {
 
         System.out.println("is a " + mazda.brand + "; power is " + mazda.horsePower + "; is it AWD - " + mazda.isAwd);
         System.out.println("is a " + mazda.brand + "; power is " + mazda.horsePower + "; is it AWD - " + mazda.isAwd);
+        System.out.println("is a " + mazda.brand + "; power is " + mazda.horsePower + "; is it AWD - " + mazda.isAwd);
 
     }
 
